@@ -1,0 +1,16 @@
+**sample vehicle**
+
+id: 1,
+brand: "Honda",
+model: "HR-V Hybrid",
+engine: '3L Twin Turbo V6',
+topSpeed: 200,
+acceleration: 3.5,
+images: ["/car-model.png", "/aboutus2.jpg"],
+price: 120000,
+booked: true,
+type: "SUV",
+transmission: "Automatic",
+seats: 4,
+rentalType: "Per Day",
+securityDeposit: 5000,
